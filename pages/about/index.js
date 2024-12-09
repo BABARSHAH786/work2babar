@@ -51,6 +51,10 @@ const aboutData = [
         stage: "2023",
       },
       {
+        title: "Best web development",
+        stage: "2023",
+      },
+      {
         title: "Web Designer in figma",
         stage: "2024",
       },
